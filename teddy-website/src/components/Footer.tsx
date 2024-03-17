@@ -12,7 +12,7 @@ const Footer = () => {
   const socials = [
     {
       image: Github,
-      link: "https://github.com/TeddybearVictim/Teddy-Bear-INU",
+      link: "https://github.com/Teddybearinu/TeddyBearINU.git",
     },
     {
       image: X,
@@ -81,7 +81,7 @@ const Footer = () => {
               {t("Footer.developer.title")}
             </h4>
             <Link
-              href="https://github.com/TeddybearVictim"
+              href="https://github.com/Teddybearinu/TeddyBearINU.git"
               target="_blank"
               rel="noreferrer"
               className="font-medium text-xs sm:text-base lg:text-lg text-[#000B33] hover:brightness-75 active:brightness-95 transition-all mt-3 lg:mt-10"
@@ -89,7 +89,7 @@ const Footer = () => {
               {t("Footer.developer.doc")}
             </Link>
             <Link
-              href={"https://github.com/TeddybearVictim/Teddy-Bear-INU"}
+              href={"https://github.com/Teddybearinu/TeddyBearINU.git"}
               target="_blank"
               rel="noreferrer"
               className="font-medium text-xs sm:text-base lg:text-lg text-[#000B33] hover:brightness-75 active:brightness-95 transition-all mt-1 lg:mt-6"
@@ -126,7 +126,7 @@ const Footer = () => {
               {t("Footer.socials.telegram")}
             </Link>
             <Link
-              href={"https://github.com/TeddybearVictim/Teddy-Bear-INU"}
+              href={"https://github.com/Teddybearinu/TeddyBearINU.git"}
               target="_blank"
               rel="noreferrer"
               className="font-medium text-xs sm:text-base lg:text-lg text-[#000B33] hover:brightness-75 active:brightness-95 transition-all mt-1 lg:mt-6"
