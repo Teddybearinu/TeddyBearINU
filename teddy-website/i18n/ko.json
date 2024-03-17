@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "chart": "Chart",
+    "bridge": "Bridge",
+    "dapps": "Dapps",
+    "faq": "FAQ",
+    "buy_now": "Buy Now"
+  },
+  "Landing": {
+    "desc": "Where Memes Meet Crypto Wealth"
+  },
+  "Backstory": {
+    "title": "In a World Of Soft Cuddles",
+    "subtitle": "Backstory",
+    "desc": "Introducing the adorably unique meme coin! While other coins like Doge and Shiba flood the market with billions of tokens annually, Teddy Bear Inu stands out with genuine scarcity."
+  },
+  "Token": {
+    "title": "The Token",
+    "subtitle": "Token Details",
+    "token": {
+      "name": "Token Name",
+      "symbol": "Token Symbol",
+      "max_supply": "Max Token Supply",
+      "pair": "Token Pair",
+      "decimals": "Decimals",
+      "type": "Token Type",
+      "blockchain": "Blockchain",
+      "tax": "Tax In / Tax Out"
+    },
+    "overview": {
+      "title": "Overview",
+      "desc": "<name>Teddy Bear Inu</name> offers the best of both worlds: the fun of a cute meme coin and the value of an ultra-scarce crypto asset. Every new holder and buyer of the limited supply contributes to pushing <symbol>$TBI</symbol> price upwards, following simple supply/demand economics, offering TBI holders the potential for significant profits."
+    },
+    "feature": {
+      "title": "Key Features",
+      "item1": "Micro <highlight>9 Billion</highlight> max supply",
+      "item2": "<highlight>ZERO buy/sell</highlight> taxes for price pump potential",
+      "item3": "<highlight>$95,000</highlight> Liquidity",
+      "item4": "Strong <highlight>Community</highlight> of holders",
+      "item5": "Accessible <highlight>ONLY</highlight> on <gradient>PulseChain</gradient> DEXs"
+    },
+    "address": "Contract Address"
+  },
+  "Guide": {
+    "title": "Guide",
+    "subtitle": "Step by Step",
+    "item1": "Download MetaMask or your preferred wallet from google play or App Store.<br></br>Alternatively, you can visit <link>metamask.io</link> to get the Google chrome extension for desktop users.",
+    "item2": "Visit the <link>pulsechain.com</link> website. Click the ‘add Pulsechain to MetaMask’ button on their homepage. Click ‘Confirm’ on your MetaMask wallet to add the Pulsechain network.",
+    "item3": "If you need to bridge ERC20 tokens into $PLS you can bridge using <link>portalXswap.io</link> and bridge in from networks such as Ethereum, BSC, Avax, Solana, Polygon and much more. Once bridged you can swap $PLS for $TBI using <link>piteas.io</link>"
+  },
+  "Swap": {
+    "title": "Swap",
+    "subtitle": "Swap at ease"
+  },
+  "Team": {
+    "title": "The Team",
+    "subtitle": "Spotlight",
+    "para1": "<bold>Our objective:</bold> To showcase to the broader crypto community the viability and vibrancy of contributing to this thrilling ecosystem. We aim to foster an environment where creativity thrives, self-expression flourishes, and inclusivity reigns supreme. Behind the scenes, our efforts are dedicated to fortifying the foundation. We bolster resilience, infuse liquidity into the ecosystem daily, and forge alliances with fellow community-driven projects, fostering opportunities for all.",
+    "para2": "<bold>Teddy Bear INU</bold> isn't just a token; it's your companion in this journey. Everyone deserves a reliable ally. Let's embark on this adventure together!"
+  },
+  "Dapps": {
+    "title": "DAPPS",
+    "subtitle": "Get in touch with TeddyBear INU",
+    "dex": "DEX",
+    "bridge": "Bridge",
+    "charts": "Charts"
+  },
+  "Holdings": {
+    "title": "TBI Holdings Rank",
+    "subtitle": "Check your ranking",
+    "whale": "WhaleINU",
+    "shark": "SharkINU",
+    "dolphin": "DolphinINU",
+    "squid": "SquidINU",
+    "turtle": "TurtleINU",
+    "crab": "CrabINU",
+    "shrimp": "ShrimpINU"
+  },
+  "Roadmap": {
+    "title": "Roadmap",
+    "subtitle": "Future Plans",
+    "phase1": {
+      "title": "Research & Planning",
+      "item1": "Clearly define TBI's unique value prop focused on the memecoin theme",
+      "item2": "Develop strong holding community",
+      "item3": "Assemble top-tier development team with memecoin experience",
+      "item4": "Produce detailed technical whitepaper outlining TBI's architecture",
+      "item5": "Coin Gecko",
+      "item6": "Dextools",
+      "item7": "Dexscreener",
+      "item8": "LP provided PLS, eDAI"
+    },
+    "phase2": {
+      "title": "Testing",
+      "item1": "Contract Verified",
+      "item2": "Rigorous testing, bug bounties, testnet simulations completed",
+      "item3": "Owner Renounced",
+      "item4": "Holder Increase",
+      "item5": "Telegram 400+ members",
+      "item6": "Meme contest",
+      "item7": "X account 200+ members"
+    },
+    "phase3": {
+      "title": "Launch & Ecosystem Growth",
+      "item1": "Major marketing push engaging top crypto/meme influencers",
+      "item2": "Establish partnerships with leading brands in the private sector",
+      "item3": "Office location",
+      "item4": "Company registration",
+      "item5": "In house graphic designers",
+      "item6": "Content creators",
+      "item7": "Onboard strategic partners",
+      "item8": "I’s dotted and t’s crossed"
+    },
+    "phase4": {
+      "title": "Adoption & Community Governance",
+      "item1": "Achieve 100,000+ active community members across all channels",
+      "item2": "Ecosystem fund and development grants",
+      "item3": "Launch of Comic",
+      "item4": "Launch education videos",
+      "item5": "TBI merchant integration with major e-commerce retailers",
+      "item6": "Launch initial TBI ecosystem dApps - NFTs, merch store, games",
+      "item7": "Implement full community governance and proposals system"
+    }
+  },
+  "Subscribe": {
+    "title": "Subscribe",
+    "subtitle": "Don't miss out!",
+    "desc": "Get the latest news, updates, and exclusive offers delivered straight to your inbox.",
+    "email": "Your E-mail",
+    "subscribe": "Subscribe",
+    "info": "Be part of our community, and never miss a beat."
+  },
+  "Footer": {
+    "desc": "Join the Teddy Bear INU community today and embark on a journey of fun, value, and potential profits. With a strong community backing and innovative features, Teddy Bear INU is paving the way for a new era of meme coins on PulseChain DEXs. Don't miss out on the opportunity to be part of something truly special. Invest in Teddy Bear INU now!",
+    "dapps": {
+      "title": "Dapps",
+      "swap": "Swap",
+      "bridge": "Pulse Bridge",
+      "portalx": "PortalX"
+    },
+    "developer": {
+      "title": "Developer",
+      "doc": "Documentation",
+      "github": "Github",
+      "faq": "FAQ"
+    },
+    "socials": {
+      "title": "Socials",
+      "x": "X (Twitter)",
+      "telegram": "Telegram",
+      "media": "Media Kit"
+    },
+    "copy_right": "© Copyright 2024 TeddyBear INU. ® All Rights Reserved"
+  }
+}
