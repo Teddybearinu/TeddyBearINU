@@ -54,19 +54,19 @@ const Roadmap = () => {
         .map((_, i) => t(`Roadmap.phase1.item${i + 1}`)),
     },
     {
-      title: t("phase2.title"),
+      title: t("Roadmap.phase2.title"),
       items: Array(7)
         .fill(0)
         .map((_, i) => t(`Roadmap.phase2.item${i + 1}`)),
     },
     {
-      title: t("phase3.title"),
+      title: t("Roadmap.phase3.title"),
       items: Array(8)
         .fill(0)
         .map((_, i) => t(`Roadmap.phase3.item${i + 1}`)),
     },
     {
-      title: t("phase4.title"),
+      title: t("Roadmap.phase4.title"),
       items: Array(7)
         .fill(0)
         .map((_, i) => t(`Roadmap.phase4.item${i + 1}`)),
