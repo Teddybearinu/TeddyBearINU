@@ -22,7 +22,7 @@ export default function Home() {
         <TokenDetails />
         <Guide />
         <Swap />
-        <Team />
+        {/* <Team /> */}
         <Dapps />
         <Holdings />
         <Roadmap />
